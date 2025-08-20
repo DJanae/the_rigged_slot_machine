@@ -1,6 +1,6 @@
 # The Rigged Slot Machine
 
-A simple slot machine game with a twist — it's *rigged*!  
+A simple slot machine game with a twist that may be a little *rigged*  
 Built with Python as a fun coding experiment.
 
 ## Features
